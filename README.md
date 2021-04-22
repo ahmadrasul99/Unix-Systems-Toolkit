@@ -15,8 +15,8 @@ Custom commands implemented:
   
 All existing external UNIX commands are implemented successfully.
 
-Termination upon receiving EOF (CTRL+D) not implemented.
-
 Able to support multiple pipes (up to 10 in a command line). However, custom commands cannot be used with pipes.
+
+Termination upon receiving EOF (CTRL+D) not implemented.
 
 I/O redirection is not implemented.
